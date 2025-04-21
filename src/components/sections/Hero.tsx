@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="space-y-6">
             <div>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-              Driving <span className="text-diversa-orange">Sustainable</span> Solutions with <span className="text-diversa-teal">Data</span> & <span className="text-diversa-teal">Expertise</span>
+              Driving <span className="text-diversa-orange">Sustainable</span> Solutions with <span className="text-diversa-teal">Data</span> and <span className="text-diversa-teal">Intelligence</span>
               </h1>
               <p className="mt-6 text-xl text-gray-600">
                 A woman-led consultancy providing expert solutions for socio-environmental challenges through science, data, and technology.

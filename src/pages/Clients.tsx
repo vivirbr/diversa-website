@@ -14,8 +14,8 @@ const Clients = () => {
     {
       name: "Fern",
       country: "Belgium",
-      logo: "https://img.logo.dev/imaflora.org",
-      description: "An NGO focused on protecting forests and the rights of people who depend on them."
+      logo: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fern_NGO_Logo.jpg",
+      description: "About them"
     },
     {
       name: "Imaflora",
@@ -27,7 +27,7 @@ const Clients = () => {
       name: "Global Canopy",
       country: "UK",
       logo: "https://img.logo.dev/globalcanopy.org",
-      description: "An environmental organization focusing on the transition to a deforestation-free economy."
+      description: "About them"
     },
     {
       name: "WWF",
@@ -39,7 +39,7 @@ const Clients = () => {
       name: "Beyond Borders Media",
       country: "Netherlands",
       logo: "https://beyondbordersmedia.com/wp-content/uploads/2022/05/bbm-logo2.png",
-      description: "An organization dedicated to addressing cross-border environmental and social challenges."
+      description: "About them"
     },
   ];
 

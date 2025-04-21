@@ -9,7 +9,7 @@ const About = () => {
       <div className="container mx-auto px-6 py-16">
         <SectionHeading
           title="About Diversa"
-          subtitle="A socio-environmental consulting firm founded and led by two Brazilian women scientists with extensive experience in civil society."
+          subtitle="A socio-environmental consulting firm founded and led by two Brazilian women scientists with extensive experience in understanding the impacts of agricultural systems in nature and society."
         />
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center mb-16">

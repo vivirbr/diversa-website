@@ -6,32 +6,32 @@ const ClientsSection = () => {
     {
       name: "Stockholm Environment Institute",
       country: "Sweden",
-      logo: "https://placekitten.com/200/80" // Placeholder, replace with actual logos
+      logo: "https://www.sei.org/wp-content/themes/sei/assets/src/sprite-images/logo.svg?v2.0"
     },
     {
       name: "Fern",
       country: "Belgium",
-      logo: "https://placekitten.com/201/80"
+      logo: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fern_NGO_Logo.jpg"
     },
     {
       name: "Imaflora",
       country: "Brazil",
-      logo: "https://placekitten.com/202/80"
+      logo: "https://img.logo.dev/imaflora.org"
     },
     {
       name: "Global Canopy",
       country: "UK",
-      logo: "https://placekitten.com/203/80"
+      logo: "https://img.logo.dev/globalcanopy.org"
     },
     {
       name: "WWF",
       country: "International",
-      logo: "https://placekitten.com/204/80"
+      logo: "https://img.logo.dev/wwf.de"
     },
     {
       name: "Beyond Borders",
       country: "Netherlands",
-      logo: "https://placekitten.com/205/80"
+      logo: "https://beyondbordersmedia.com/wp-content/uploads/2022/05/bbm-logo2.png"
     },
   ];
 
