@@ -16,7 +16,7 @@ const Services = () => {
       ]
     },
     {
-      title: "Report Writing & Elaboration",
+      title: "Report Writing and Elaboration",
       description: "Professional, detailed reports backed by scientific research and data analysis, presenting complex information in accessible formats.",
       details: [
         "Comprehensive environmental impact reports",
@@ -26,7 +26,7 @@ const Services = () => {
       ]
     },
     {
-      title: "Proposal Development & Intermediation",
+      title: "Proposal Development and Intermediation",
       description: "Strategic development of proposals for funding, partnerships, and project implementation with a high success rate.",
       details: [
         "Grant and funding proposal preparation",
@@ -36,7 +36,7 @@ const Services = () => {
       ]
     },
     {
-      title: "Data Science & Data Engineering Services",
+      title: "Data Science and Data Engineering Services",
       description: "Advanced data collection, processing, analysis, and visualization services that turn complex information into actionable insights.",
       details: [
         "Spatial data analysis and GIS mapping",
@@ -66,7 +66,7 @@ const Services = () => {
       ]
     },
     {
-      title: "Data Analysis & Benchmark Identification",
+      title: "Data Analysis and Benchmark Identification",
       description: "Comprehensive analysis and identification of industry benchmarks and best practices to guide strategy and improve performance.",
       details: [
         "Competitive landscape analysis",
