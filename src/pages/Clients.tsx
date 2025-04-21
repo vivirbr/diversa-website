@@ -8,37 +8,37 @@ const Clients = () => {
     {
       name: "Stockholm Environment Institute",
       country: "Sweden",
-      logo: "https://placekitten.com/300/200",
+      logo: "https://www.sei.org/wp-content/themes/sei/assets/src/sprite-images/logo.svg?v2.0",
       description: "A leading international research organization focused on environment and development challenges."
     },
     {
       name: "Fern",
       country: "Belgium",
-      logo: "https://placekitten.com/301/200",
+      logo: "https://img.logo.dev/imaflora.org",
       description: "An NGO focused on protecting forests and the rights of people who depend on them."
     },
     {
       name: "Imaflora",
       country: "Brazil",
-      logo: "https://placekitten.com/302/200",
+      logo: "https://img.logo.dev/imaflora.org",
       description: "A Brazilian environmental organization working on sustainable land use and forest conservation."
     },
     {
       name: "Global Canopy",
       country: "UK",
-      logo: "https://placekitten.com/303/200",
+      logo: "https://img.logo.dev/globalcanopy.org",
       description: "An environmental organization focusing on the transition to a deforestation-free economy."
     },
     {
       name: "WWF",
       country: "International",
-      logo: "https://placekitten.com/304/200",
+      logo: "https://img.logo.dev/wwf.de",
       description: "One of the world's largest conservation organizations working to protect wildlife and habitats."
     },
     {
-      name: "Beyond Borders",
+      name: "Beyond Borders Media",
       country: "Netherlands",
-      logo: "https://placekitten.com/305/200",
+      logo: "https://beyondbordersmedia.com/wp-content/uploads/2022/05/bbm-logo2.png",
       description: "An organization dedicated to addressing cross-border environmental and social challenges."
     },
   ];
