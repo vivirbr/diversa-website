@@ -6,14 +6,14 @@ const TeamSection = () => {
     {
       name: "Gabriela Russo Lopes, Ph.D.",
       title: "Co-CEO",
-      bio: "Environmental scientist (Ph.D.) with extensive experience in civil society and sustainable solutions.",
-      image: "https://placekitten.com/300/300"
+      bio: "Social scientist (Ph.D.) specializing in sociobiodiversity relations and socio-environmental impact assessment.",
+      image: "https://placecats.com/neo/300/200"
     },
     {
       name: "Vivian Ribeiro, Ph.D.",
       title: "Co-CEO",
-      bio: "Social scientist (Ph.D.) specializing in community relations and socio-environmental impact assessment.",
-      image: "https://placekitten.com/301/300"
+      bio: "Environmental scientist (Ph.D.) and spatial data scientist with extensive experience in developing data solutions.",
+      image: "https://placecats.com/neo/300/200"
     }
   ];
 
