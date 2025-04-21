@@ -23,12 +23,12 @@ const ExpertiseOverview = () => {
       icon: <Globe size={24} />,
     },
     {
-      title: "Data Science & Spatial Analysis",
+      title: "Data Science and Spatial Analysis",
       description: "Extensive capability in data science, spatial analysis, and producing complex spatial databases for environmental and social applications.",
       icon: <Database size={24} />,
     },
     {
-      title: "Technology & Platforms",
+      title: "Technology and Platforms",
       description: "Development of custom technology solutions including mobile apps, web platforms, and internal dashboards focused on democratizing data access.",
       icon: <Folder size={24} />,
     },
